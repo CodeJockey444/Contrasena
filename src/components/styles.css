@@ -1,0 +1,33 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+html,
+body {
+  overflow-x: hidden;
+  scroll-behavior: smooth;
+}
+.footer {
+  background-color: rgb(29, 29, 29);
+  color: rgb(238, 232, 232);
+  padding: 2.5vw;
+}
+a,
+a:hover {
+  text-decoration: none;
+  color: rgba(64, 64, 211, 0.966);
+}
+a:hover {
+  color: rgb(125, 116, 211);
+}
+body::-webkit-scrollbar {
+  width: 8px;
+}
+body::-webkit-scrollbar-track {
+  background: #544bf7;
+}
+body::-webkit-scrollbar-thumb {
+  background-color: rgb(73, 72, 72);
+  border-radius: 20px;
+}
