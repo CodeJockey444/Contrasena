@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/Contrasena/static/css/main.9829cb50.chunk.css",
+    "main.js": "/Contrasena/static/js/main.be8328ac.chunk.js",
+    "main.js.map": "/Contrasena/static/js/main.be8328ac.chunk.js.map",
+    "runtime-main.js": "/Contrasena/static/js/runtime-main.3011ca60.js",
+    "runtime-main.js.map": "/Contrasena/static/js/runtime-main.3011ca60.js.map",
+    "static/js/2.2b2ccbaa.chunk.js": "/Contrasena/static/js/2.2b2ccbaa.chunk.js",
+    "static/js/2.2b2ccbaa.chunk.js.map": "/Contrasena/static/js/2.2b2ccbaa.chunk.js.map",
+    "index.html": "/Contrasena/index.html",
+    "static/css/main.9829cb50.chunk.css.map": "/Contrasena/static/css/main.9829cb50.chunk.css.map",
+    "static/js/2.2b2ccbaa.chunk.js.LICENSE.txt": "/Contrasena/static/js/2.2b2ccbaa.chunk.js.LICENSE.txt",
+    "static/media/Security-cuate.0819d94a.svg": "/Contrasena/static/media/Security-cuate.0819d94a.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3011ca60.js",
+    "static/js/2.2b2ccbaa.chunk.js",
+    "static/css/main.9829cb50.chunk.css",
+    "static/js/main.be8328ac.chunk.js"
+  ]
+}
