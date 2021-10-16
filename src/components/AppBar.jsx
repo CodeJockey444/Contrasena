@@ -10,10 +10,10 @@ const useStyles = makeStyles({
     display: "flex",
     padding: "0.5vw",
   },
-  flexBox:{
-    display:'flex',
-    justifyContent:'end',
-    alignContent:'end'
+  flexBox: {
+    display: "flex",
+    justifyContent: "end",
+    alignContent: "end",
   },
   iconStyles: {
     color: "#fff",
@@ -37,7 +37,7 @@ const Header = () => {
             <IconButton>
               <FavoriteIcon className={styles.iconStyles} />
             </IconButton>
-            <IconButton>
+            <IconButton href="https://github.com/CodeJockey444/Contrasena">
               <GitHubIcon className={styles.iconStyles} />
             </IconButton>
           </Grid>
